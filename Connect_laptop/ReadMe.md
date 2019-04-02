@@ -5,7 +5,7 @@ You can also see the video by typing the IP address in your web browser(This giv
 You can also live stream the video feed in VLC media player wither on another phone or Laptop (Ain't that Cool!? ). For mobile phone, just select
 the Open MRL option in VLC app and feed in the IP along with <code> /video </code> at the end and you should be good to go :).<br>
 <br>
-####Why the hell do I want to do this ?
+#### Why the hell do I want to do this ?
 Well, I wanted to implement this for detecting objects ('cause I was a bit frustrated by Object Detection). And guess what, I actually did it(This Repo is made for this).<br>
 
 A lot of credits goes to the creator of ImageAI library, it really makes the object detection task easy.
